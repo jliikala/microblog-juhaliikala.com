@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://juha.micro.blog/2023/01/16/still-wrapping-my.html",
+				
+				"content_html": "<p>Still wrapping my head around the &ldquo;best practice&rdquo; on how to use my <a href=\"https://masto.ai/@juhaliikala\">main Mastodon account</a> and this blog&rsquo;s &ldquo;account&rdquo; (@juha@juhaliikala.com) side by side. For now, I think I&rsquo;ll just boost posts that I&rsquo;d also like to share via my main account and keep my fingers crossed that the possible comments on the (boosted) post appear hear on this blog (and micro.blog) too. I guess that&rsquo;s one way to go about it? :)</p>\n",
+				"content_text": "Still wrapping my head around the \"best practice\" on how to use my [main Mastodon account](https://masto.ai/@juhaliikala) and this blog's \"account\" (@juha@juhaliikala.com) side by side. For now, I think I'll just boost posts that I'd also like to share via my main account and keep my fingers crossed that the possible comments on the (boosted) post appear hear on this blog (and micro.blog) too. I guess that's one way to go about it? :)\n",
+				"date_published": "2023-01-16T11:53:00+02:00",
+				"url": "https://juhaliikala.com/2023/01/16/still-wrapping-my.html"
+			},
+			{
+				"id": "http://juha.micro.blog/2023/01/12/posting-a-few.html",
+				
+				"content_html": "<p>Posting a few nice shots from Lofoten (Norway) road trip (few years ago) to check if micro.blog CDN settings have taken effect 😄🤞</p>\n<p><img src=\"https://juhaliikala.com/uploads/2023/27d637adec.jpg\" alt=\"Road to the mountains, somewhere near the Lofoten islands, Norway\">\n<img src=\"https://juhaliikala.com/uploads/2023/093ed9f31e.jpg\" alt=\"Fishing village, somewhere near the Lofoten islands, Norway\">\n<img src=\"https://juhaliikala.com/uploads/2023/9f8ede5b1f.jpg\" alt=\"Lake and a Fishing village, somewhere near the Lofoten islands, Norway\"></p>\n",
+				"content_text": "Posting a few nice shots from Lofoten (Norway) road trip (few years ago) to check if micro.blog CDN settings have taken effect 😄🤞\n\n![Road to the mountains, somewhere near the Lofoten islands, Norway](https://juhaliikala.com/uploads/2023/27d637adec.jpg)\n![Fishing village, somewhere near the Lofoten islands, Norway](https://juhaliikala.com/uploads/2023/093ed9f31e.jpg)\n![Lake and a Fishing village, somewhere near the Lofoten islands, Norway](https://juhaliikala.com/uploads/2023/9f8ede5b1f.jpg)\n",
+				"date_published": "2023-01-12T15:42:38+02:00",
+				"url": "https://juhaliikala.com/2023/01/12/posting-a-few.html",
+				"tags": ["Travel"]
+			},
+			{
 				"id": "http://juha.micro.blog/2023/01/10/aiempaan-viestiin-liittyen.html",
 				
 				"content_html": "<p>Aiempaan viestiin liittyen, omalta micro.blog seurantalistalta löytyi ainoastaan <a href=\"https://micro.blog/tkoola\">@tkoola</a> Suomesta. Ehkäpä meitä muitakin löytyy micro.blogista? Oli miten oli, ajatus olisi välillä jakaa täällä jotain suomeksikin, tai viritellä cross-postausta micro.blogista esim. Mastodonin tai Linkkarin puolelle, kun tulee jotain erityisesti suomeksi jaettavaa. Kassotaan!</p>\n",
@@ -27,8 +44,8 @@
 			{
 				"id": "http://juha.micro.blog/2023/01/06/winter-roadtrip-to.html",
 				
-				"content_html": "<p>Winter roadtrip to Iso-Syöte (Finland) 😍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Winter roadtrip to Iso-Syöte (Finland) 😍\n\n\n\n<img src=\"uploads/2023/5dd50fad53.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/56ae16f1ce.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/f629affedf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Winter roadtrip to Iso-Syöte (Finland) 😍</p>\n<p><img src=\"https://cdn.uploads.micro.blog/65934/2023/5dd50fad53.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"><img src=\"https://cdn.uploads.micro.blog/65934/2023/56ae16f1ce.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"><img src=\"https://cdn.uploads.micro.blog/65934/2023/f629affedf.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"></p>\n",
+				"content_text": "Winter roadtrip to Iso-Syöte (Finland) 😍\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/5dd50fad53.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"><img src=\"https://cdn.uploads.micro.blog/65934/2023/56ae16f1ce.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"><img src=\"https://cdn.uploads.micro.blog/65934/2023/f629affedf.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\">\n",
 				"date_published": "2023-01-06T15:00:57+02:00",
 				"url": "https://juhaliikala.com/2023/01/06/winter-roadtrip-to.html",
 				"tags": ["Travel"]
@@ -81,8 +98,8 @@
 			{
 				"id": "http://juha.micro.blog/2022/11/07/224107.html",
 				
-				"content_html": "<p>Monochrome Monday shot from Times Square, New York. Would love to revisit! 📸🙌</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monochrome Monday shot from Times Square, New York. Would love to revisit! 📸🙌\n\n<img src=\"uploads/2022/9dcc1dcd83.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Monochrome Monday shot from Times Square, New York. Would love to revisit! 📸🙌</p>\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/9dcc1dcd83.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"content_text": "Monochrome Monday shot from Times Square, New York. Would love to revisit! 📸🙌\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/9dcc1dcd83.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-07T21:41:07+02:00",
 				"url": "https://juhaliikala.com/2022/11/07/224107.html",
 				"tags": ["Travel"]
@@ -90,16 +107,16 @@
 			{
 				"id": "http://juha.micro.blog/2022/11/06/ah-first-snow.html",
 				
-				"content_html": "<p>Ah, first snow is here! 😊❄️❄️❄️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ah, first snow is here! 😊❄️❄️❄️\n\n\n\n<img src=\"uploads/2022/5a6cda95c5.jpg\" width=\"450\" height=\"600\" alt=\"First snow has landed ❄️\">\n",
+				"content_html": "<p>Ah, first snow is here! 😊❄️❄️❄️</p>\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/5a6cda95c5.jpg\" width=\"450\" height=\"600\" alt=\"First snow has landed ❄️\">\n",
+				"content_text": "Ah, first snow is here! 😊❄️❄️❄️\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/5a6cda95c5.jpg\" width=\"450\" height=\"600\" alt=\"First snow has landed ❄️\">\n",
 				"date_published": "2022-11-06T11:49:47+02:00",
 				"url": "https://juhaliikala.com/2022/11/06/ah-first-snow.html"
 			},
 			{
 				"id": "http://juha.micro.blog/2022/11/02/rather-nice-this.html",
 				
-				"content_html": "<p>Rather nice, this one! Few episodes were a bit too strange to my taste, but overall, an enjoyable watch. ⭐️⭐️⭐️ #series #horror #mystery #netflix</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rather nice, this one! Few episodes were a bit too strange to my taste, but overall, an enjoyable watch. ⭐️⭐️⭐️ #series #horror #mystery #netflix\n\n<img src=\"uploads/2022/4d55078733.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Rather nice, this one! Few episodes were a bit too strange to my taste, but overall, an enjoyable watch. ⭐️⭐️⭐️ #series #horror #mystery #netflix</p>\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/4d55078733.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
+				"content_text": "Rather nice, this one! Few episodes were a bit too strange to my taste, but overall, an enjoyable watch. ⭐️⭐️⭐️ #series #horror #mystery #netflix\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/4d55078733.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-02T18:18:05+02:00",
 				"url": "https://juhaliikala.com/2022/11/02/rather-nice-this.html",
 				"tags": ["Watching"]
@@ -107,8 +124,8 @@
 			{
 				"id": "http://juha.micro.blog/2022/10/16/i-guess-that.html",
 				
-				"content_html": "<p>I guess that <a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">A Day in the Life</a> challenge already passed, but will post nonetheless 😄 Gym time in Oulu, Finland, 14:20pm. Sweaty business! 😅</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I guess that [A Day in the Life](https://micro.welltempered.net/2022/10/11/a-day-in.html) challenge already passed, but will post nonetheless 😄 Gym time in Oulu, Finland, 14:20pm. Sweaty business! 😅\n\n<img src=\"uploads/2022/686f06d377.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/1c7a13e1ae.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/2131815314.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I guess that <a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">A Day in the Life</a> challenge already passed, but will post nonetheless 😄 Gym time in Oulu, Finland, 14:20pm. Sweaty business! 😅</p>\n<p><img src=\"https://cdn.uploads.micro.blog/65934/2022/686f06d377.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"><img src=\"https://cdn.uploads.micro.blog/65934/2022/1c7a13e1ae.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"><img src=\"https://cdn.uploads.micro.blog/65934/2022/2131815314.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"></p>\n",
+				"content_text": "I guess that [A Day in the Life](https://micro.welltempered.net/2022/10/11/a-day-in.html) challenge already passed, but will post nonetheless 😄 Gym time in Oulu, Finland, 14:20pm. Sweaty business! 😅\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/686f06d377.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"><img src=\"https://cdn.uploads.micro.blog/65934/2022/1c7a13e1ae.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"><img src=\"https://cdn.uploads.micro.blog/65934/2022/2131815314.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\">\n",
 				"date_published": "2022-10-16T14:03:18+02:00",
 				"url": "https://juhaliikala.com/2022/10/16/i-guess-that.html",
 				"tags": ["Exercise"]
@@ -133,8 +150,8 @@
 			{
 				"id": "http://juha.micro.blog/2022/08/22/where-did-that.html",
 				
-				"content_html": "<p>Where did that weekend go? 😄 Well, coffee to the engine and toward this weeks adventures! Started exploring <a href=\"https://convertkit.com\">ConvertKit</a> on Saturday. Thinking of starting a newsletter, in addition to these somewhat random micro blog writings. Let&rsquo;s see!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Where did that weekend go? 😄 Well, coffee to the engine and toward this weeks adventures! Started exploring [ConvertKit](https://convertkit.com) on Saturday. Thinking of starting a newsletter, in addition to these somewhat random micro blog writings. Let's see!\n\n<img src=\"uploads/2022/d84cb3d9a2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Where did that weekend go? 😄 Well, coffee to the engine and toward this weeks adventures! Started exploring <a href=\"https://convertkit.com\">ConvertKit</a> on Saturday. Thinking of starting a newsletter, in addition to these somewhat random micro blog writings. Let&rsquo;s see!</p>\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/d84cb3d9a2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Where did that weekend go? 😄 Well, coffee to the engine and toward this weeks adventures! Started exploring [ConvertKit](https://convertkit.com) on Saturday. Thinking of starting a newsletter, in addition to these somewhat random micro blog writings. Let's see!\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/d84cb3d9a2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-22T11:25:03+02:00",
 				"url": "https://juhaliikala.com/2022/08/22/where-did-that.html"
 			},
@@ -150,8 +167,8 @@
 			{
 				"id": "http://juha.micro.blog/2022/08/21/blast-from-the.html",
 				
-				"content_html": "<p>Blast from the past from travel photo archives. Miss those Bali adventures! This was a cave waterfall called Tukad Cepung (if I remember correctly). Beautiful place! 😍</p>\n<p>✈️🗺</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Blast from the past from travel photo archives. Miss those Bali adventures! This was a cave waterfall called Tukad Cepung (if I remember correctly). Beautiful place! 😍\n\n✈️🗺\n\n<img src=\"uploads/2022/34c904fd66.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Blast from the past from travel photo archives. Miss those Bali adventures! This was a cave waterfall called Tukad Cepung (if I remember correctly). Beautiful place! 😍</p>\n<p>✈️🗺</p>\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/34c904fd66.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Blast from the past from travel photo archives. Miss those Bali adventures! This was a cave waterfall called Tukad Cepung (if I remember correctly). Beautiful place! 😍\n\n✈️🗺\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/34c904fd66.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-21T12:50:21+02:00",
 				"url": "https://juhaliikala.com/2022/08/21/blast-from-the.html",
 				"tags": ["Travel"]
