@@ -7,6 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://juha.micro.blog/2023/05/15/fin-swe-thriller.html",
+				
+				"content_html": "<p>🇫🇮FIN - 🇸🇪SWE thriller, part 2 (first one being the Eurovision song contest last weekend). Let&rsquo;s see how this one goes! 😄🏒</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🇫🇮FIN - 🇸🇪SWE thriller, part 2 (first one being the Eurovision song contest last weekend). Let's see how this one goes! 😄🏒\n\n<img src=\"uploads/2023/469b95f34e.jpg\" width=\"600\" height=\"433\" alt=\"Watching Finland - Sweden ice hockey world championship match from TV\">\n",
+				"date_published": "2023-05-15T21:32:01+03:00",
+				"url": "https://juhaliikala.com/2023/05/15/fin-swe-thriller.html"
+			},
+			{
+				"id": "http://juha.micro.blog/2023/05/14/testing-testing-substacks.html",
+				
+				"content_html": "<p>Testing testing! Substack&rsquo;s RSS reader seems to pick content for each post from my blog sidebar for some reason. Testing if that glitch continues to happen with this new post 🤔</p>\n",
+				"content_text": "Testing testing! Substack's RSS reader seems to pick content for each post from my blog sidebar for some reason. Testing if that glitch continues to happen with this new post 🤔\n",
+				"date_published": "2023-05-14T14:29:22+03:00",
+				"url": "https://juhaliikala.com/2023/05/14/testing-testing-substacks.html",
+				"tags": ["Social media"]
+			},
+			{
+				"id": "http://juha.micro.blog/2023/05/13/something-going-on.html",
+				
+				"content_html": "<p>Something going on with Mastodon cross-posting from micro.blog. Previous few entries never made to Mastodon for some reason. Testing out once more if disconnecting / reconnecting auth helped. 🤞</p>\n",
+				"content_text": "Something going on with Mastodon cross-posting from micro.blog. Previous few entries never made to Mastodon for some reason. Testing out once more if disconnecting / reconnecting auth helped. 🤞\n",
+				"date_published": "2023-05-13T14:45:59+03:00",
+				"url": "https://juhaliikala.com/2023/05/13/something-going-on.html"
+			},
+			{
+				"id": "http://juha.micro.blog/2023/05/13/i-wonder-if.html",
+				
+				"content_html": "<p>I wonder if anyone have a Bluesky invite to share? Would love to try it out! 😊</p>\n",
+				"content_text": "I wonder if anyone have a Bluesky invite to share? Would love to try it out! 😊\n",
+				"date_published": "2023-05-13T12:33:31+03:00",
+				"url": "https://juhaliikala.com/2023/05/13/i-wonder-if.html",
+				"tags": ["Social media"]
+			},
+			{
+				"id": "http://juha.micro.blog/2023/05/13/been-really-enjoying.html",
+				
+				"content_html": "<p>Been really enjoying <a href=\"https://tv.apple.com/fi/show/siilo/umc.cmc.3yksgc857px0k0rqe5zd4jice\">Silo</a> (Apple TV+) so far. Certainly a positive surprise! 8/10 from me. 📺</p>\n",
+				"content_text": "Been really enjoying [Silo](https://tv.apple.com/fi/show/siilo/umc.cmc.3yksgc857px0k0rqe5zd4jice) (Apple TV+) so far. Certainly a positive surprise! 8/10 from me. 📺\n",
+				"date_published": "2023-05-13T10:36:06+03:00",
+				"url": "https://juhaliikala.com/2023/05/13/been-really-enjoying.html",
+				"tags": ["Watching"]
+			},
+			{
 				"id": "http://juha.micro.blog/2023/05/02/ah-so-the.html",
 				
 				"content_html": "<p>Ah, so the <a href=\"https://gizmodo.com/twitter-elon-musk-social-media-api-search-bar-1850382363\">last thing I used Twitter for</a> is now gone too. Used the search (without Twitter account) for browsing comments on some local Finnish news. So be it. The end.</p>\n",
@@ -19,7 +62,7 @@
 				"id": "http://juha.micro.blog/2023/03/21/singapore-pooltime-its.html",
 				
 				"content_html": "<p>Singapore pooltime! 😍🇸🇬 It&rsquo;s been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴</p>\n<p>#travel #singapore #indonesia #bali</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Singapore pooltime! 😍🇸🇬 It's been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴\n\n#travel #singapore #indonesia #bali\n<div class=\"photos-grid-container\" style=\"display: grid; grid-column-gap: 15px; grid-row-gap: 15px; grid-template-columns: 33% 33% 33%;\">\n<a href=\"https://juhaliikala.com/uploads/2023/8ff9000587.jpg\">\n<img src=\"uploads/2023/8ff9000587.jpg\" alt=\"Poolside chilling in Singapore\"></a><a href=\"https://juhaliikala.com/uploads/2023/cd70aef71a.jpg\"><img src=\"uploads/2023/cd70aef71a.jpg\" alt=\"Supertree Grove in Singapore\"></a><a href=\"https://juhaliikala.com/uploads/2023/538adcdcb7.jpg\"><img src=\"uploads/2023/538adcdcb7.jpg\" alt=\"Marina Bay Sands in late evening\"></a></div>\n",
+				"content_text": "Singapore pooltime! 😍🇸🇬 It's been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴\n\n#travel #singapore #indonesia #bali\n<div class=\"photos-grid-container\" style=\"display: grid; grid-column-gap: 15px; grid-row-gap: 15px; grid-template-columns: 33% 33% 33%;\">\n<a href=\"https://cdn.uploads.micro.blog/65934/2023/8ff9000587.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/8ff9000587.jpg\" alt=\"Poolside chilling in Singapore\"></a><a href=\"https://cdn.uploads.micro.blog/65934/2023/cd70aef71a.jpg\"><img src=\"https://cdn.uploads.micro.blog/65934/2023/cd70aef71a.jpg\" alt=\"Supertree Grove in Singapore\"></a><a href=\"https://cdn.uploads.micro.blog/65934/2023/538adcdcb7.jpg\"><img src=\"https://cdn.uploads.micro.blog/65934/2023/538adcdcb7.jpg\" alt=\"Marina Bay Sands in late evening\"></a></div>\n",
 				"date_published": "2023-03-21T06:21:39+03:00",
 				"url": "https://juhaliikala.com/2023/03/21/singapore-pooltime-its.html"
 			},
@@ -27,7 +70,7 @@
 				"id": "http://juha.micro.blog/2023/02/20/this-cracked-me.html",
 				
 				"content_html": "<p>This cracked me up a bit. Touché, sir! 😄 #meta</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This cracked me up a bit. Touché, sir! 😄 #meta\n\n<img src=\"uploads/2023/9ecb4454ee.jpg\" width=\"600\" height=\"334\" alt=\"\">\n",
+				"content_text": "This cracked me up a bit. Touché, sir! 😄 #meta\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/9ecb4454ee.jpg\" width=\"600\" height=\"334\" alt=\"\">\n",
 				"date_published": "2023-02-20T10:23:05+03:00",
 				"url": "https://juhaliikala.com/2023/02/20/this-cracked-me.html"
 			},
@@ -51,7 +94,7 @@
 				"id": "http://juha.micro.blog/2023/01/12/posting-a-few.html",
 				
 				"content_html": "<p>Posting a few nice shots from Lofoten (Norway) road trip (few years ago) to check if micro.blog CDN settings have taken effect 😄🤞</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Posting a few nice shots from Lofoten (Norway) road trip (few years ago) to check if micro.blog CDN settings have taken effect 😄🤞\n<div class=\"photo-grid\">\n<a href=\"https://juhaliikala.com/uploads/2023/27d637adec.jpg\">\n<img src=\"uploads/2023/27d637adec.jpg\" alt=\"Road to the mountains, somewhere near the Lofoten islands, Norway\"></a>\n<a href=\"https://juhaliikala.com/uploads/2023/093ed9f31e.jpg\">\n<img src=\"uploads/2023/093ed9f31e.jpg\" alt=\"Fishing village, somewhere near the Lofoten islands, Norway\"></a>\n<a href=\"https://juhaliikala.com/uploads/2023/9f8ede5b1f.jpg\">\n<img src=\"uploads/2023/9f8ede5b1f.jpg\" alt=\"Lake and a Fishing village, somewhere near the Lofoten islands, Norway\"></a>\n</div>\n",
+				"content_text": "Posting a few nice shots from Lofoten (Norway) road trip (few years ago) to check if micro.blog CDN settings have taken effect 😄🤞\n<div class=\"photo-grid\">\n<a href=\"https://cdn.uploads.micro.blog/65934/2023/27d637adec.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/27d637adec.jpg\" alt=\"Road to the mountains, somewhere near the Lofoten islands, Norway\"></a>\n<a href=\"https://cdn.uploads.micro.blog/65934/2023/093ed9f31e.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/093ed9f31e.jpg\" alt=\"Fishing village, somewhere near the Lofoten islands, Norway\"></a>\n<a href=\"https://cdn.uploads.micro.blog/65934/2023/9f8ede5b1f.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/9f8ede5b1f.jpg\" alt=\"Lake and a Fishing village, somewhere near the Lofoten islands, Norway\"></a>\n</div>\n",
 				"date_published": "2023-01-12T16:42:38+03:00",
 				"url": "https://juhaliikala.com/2023/01/12/posting-a-few.html",
 				"tags": ["Travel"]
@@ -78,7 +121,7 @@
 				"id": "http://juha.micro.blog/2023/01/06/winter-roadtrip-to.html",
 				
 				"content_html": "<p>Winter roadtrip to Iso-Syöte (Finland) 😍</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Winter roadtrip to Iso-Syöte (Finland) 😍\n\n\n<div class=\"photo-grid\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/5dd50fad53.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"><img src=\"https://cdn.uploads.micro.blog/65934/2023/56ae16f1ce.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"><img src=\"https://cdn.uploads.micro.blog/65934/2023/f629affedf.jpg\" width=\"450\" height=\"600\" alt=\"\" loading=\"lazy\"></div>\n",
+				"content_text": "Winter roadtrip to Iso-Syöte (Finland) 😍\n\n\n<div class=\"photo-grid\">\n<a href=\"https://juhaliikala.com/uploads/2023/9f8ede5b1f.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/5dd50fad53.jpg\" alt=\"Shooting a beautiful Iso-Syöte sunset\" loading=\"lazy\"></a>\n<a href=\"https://juhaliikala.com/uploads/2023/9f8ede5b1f.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/56ae16f1ce.jpg\" alt=\"Iso-Syöte sunset sht between a hole in snow\" loading=\"lazy\"></a>\n<a href=\"https://juhaliikala.com/uploads/2023/9f8ede5b1f.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/f629affedf.jpg\" alt=\"Third Iso-Syöte sunset shot, overlooking the valley\" loading=\"lazy\"></a>\n</div>\n",
 				"date_published": "2023-01-06T16:00:57+03:00",
 				"url": "https://juhaliikala.com/2023/01/06/winter-roadtrip-to.html",
 				"tags": ["Travel"]
@@ -213,15 +256,6 @@
 				"content_text": "And there goes the well started Daily (Micro) Blogger streak - Forgot to post yesterday, duh! Oh well.. 😄 Weekend ahead! No plans, just chill! Maybe some gym activities, movies and catching up reading from some favourite bloggers around the blogosphere. Speaking of \"reading blogs\", I still find most convinient to subscribe to blogs via news reader, instead of email newsletters. My highest recommends goes to reader called [NetNewsWire](https://netnewswire.com/) 🙌\n",
 				"date_published": "2022-08-19T14:41:20+03:00",
 				"url": "https://juhaliikala.com/2022/08/19/and-there-goes.html"
-			},
-			{
-				"id": "http://juha.micro.blog/2022/08/17/being-real.html",
-				"title": "Being real?",
-				"content_html": "<p>Apparently the &ldquo;new hot thing&rdquo; on social media is an app called BeReal. Looked through few demo videos of usage, but haven&rsquo;t tried. Not sure I will.</p>\n<p>The idea of sharing random moment daily with friends in kind of fun.. but then again, I really don&rsquo;t feel like needing yet another app in my life. Also, we have groups in various chat apps with friends where we share random moments already, so.. might be a pass for me.</p>\n<p>If you&rsquo;ve tried / use it already, what are your thoughts of it?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Apparently the \"new hot thing\" on social media is an app called BeReal. Looked through few demo videos of usage, but haven't tried. Not sure I will.\n\nThe idea of sharing random moment daily with friends in kind of fun.. but then again, I really don't feel like needing yet another app in my life. Also, we have groups in various chat apps with friends where we share random moments already, so.. might be a pass for me.\n\nIf you've tried / use it already, what are your thoughts of it?\n\n<img style=\"display:none;\" src=\"https://juhaliikala.com/uploads/2023/f6ea896de2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-08-17T21:59:51+03:00",
-				"url": "https://juhaliikala.com/2022/08/17/being-real.html",
-				"tags": ["Social media"]
 			},
 			{
 				"id": "http://juha.micro.blog/2022/08/16/a-proper-thunderstorm.html",
