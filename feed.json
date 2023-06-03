@@ -1,6 +1,6 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "The Blog of Juha Liikala",
+	"title": "Juha Liikala",
 	"icon": "https://micro.blog/juha/avatar.jpg",
 	"home_page_url": "https://juhaliikala.com/",
 	"feed_url": "https://juhaliikala.com/feed.json",
@@ -14,14 +14,6 @@
 				"date_published": "2023-05-20T12:56:43+03:00",
 				"url": "https://juhaliikala.com/2023/05/20/third-times-the.html",
 				"tags": ["Social media"]
-			},
-			{
-				"id": "http://juha.micro.blog/2023/05/15/fin-swe-thriller.html",
-				
-				"content_html": "<p>🇫🇮FIN - 🇸🇪SWE thriller, part 2 (first one being the Eurovision song contest last weekend). Let&rsquo;s see how this one goes! 😄🏒</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🇫🇮FIN - 🇸🇪SWE thriller, part 2 (first one being the Eurovision song contest last weekend). Let's see how this one goes! 😄🏒\n\n<img src=\"uploads/2023/469b95f34e.jpg\" width=\"600\" height=\"433\" alt=\"Watching Finland - Sweden ice hockey world championship match from TV\">\n",
-				"date_published": "2023-05-15T21:32:01+03:00",
-				"url": "https://juhaliikala.com/2023/05/15/fin-swe-thriller.html"
 			},
 			{
 				"id": "http://juha.micro.blog/2023/05/14/testing-testing-substacks.html",
@@ -71,9 +63,10 @@
 				"id": "http://juha.micro.blog/2023/03/21/singapore-pooltime-its.html",
 				
 				"content_html": "<p>Singapore pooltime! 😍🇸🇬 It&rsquo;s been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴</p>\n<p>#travel #singapore #indonesia #bali</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Singapore pooltime! 😍🇸🇬 It's been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴\n\n#travel #singapore #indonesia #bali\n<div class=\"photos-grid-container\" style=\"display: grid; grid-column-gap: 15px; grid-row-gap: 15px; grid-template-columns: 33% 33% 33%;\">\n<a href=\"https://cdn.uploads.micro.blog/65934/2023/8ff9000587.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/8ff9000587.jpg\" alt=\"Poolside chilling in Singapore\"></a><a href=\"https://cdn.uploads.micro.blog/65934/2023/cd70aef71a.jpg\"><img src=\"https://cdn.uploads.micro.blog/65934/2023/cd70aef71a.jpg\" alt=\"Supertree Grove in Singapore\"></a><a href=\"https://cdn.uploads.micro.blog/65934/2023/538adcdcb7.jpg\"><img src=\"https://cdn.uploads.micro.blog/65934/2023/538adcdcb7.jpg\" alt=\"Marina Bay Sands in late evening\"></a></div>\n",
+				"content_text": "Singapore pooltime! 😍🇸🇬 It's been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴\n\n#travel #singapore #indonesia #bali\n\n<img src=\"uploads/2023/8ff9000587.jpg\" alt=\"Poolside chilling in Singapore\">\n<img src=\"uploads/2023/cd70aef71a.jpg\" alt=\"Supertree Grove in Singapore\">\n<img src=\"uploads/2023/538adcdcb7.jpg\" alt=\"Marina Bay Sands in late evening\">\n",
 				"date_published": "2023-03-21T06:21:39+03:00",
-				"url": "https://juhaliikala.com/2023/03/21/singapore-pooltime-its.html"
+				"url": "https://juhaliikala.com/2023/03/21/singapore-pooltime-its.html",
+				"tags": ["Travel"]
 			},
 			{
 				"id": "http://juha.micro.blog/2023/02/20/this-cracked-me.html",
