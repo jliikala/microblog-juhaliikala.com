@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://juha.micro.blog/2023/07/06/threads-by-instagram.html",
+				
+				"content_html": "<p>Threads by Instagram is not available in Europe (at least for now)? At least I don&rsquo;t see it in Finnish appstore. For someone who can try it, is it ActivityPub compatible? Can I use it with micro.blog somehow (follow people, respond to threads, etc.? 🤔</p>\n",
+				"content_text": "Threads by Instagram is not available in Europe (at least for now)? At least I don't see it in Finnish appstore. For someone who can try it, is it ActivityPub compatible? Can I use it with micro.blog somehow (follow people, respond to threads, etc.? 🤔\n",
+				"date_published": "2023-07-06T11:25:40+03:00",
+				"url": "https://juhaliikala.com/2023/07/06/threads-by-instagram.html"
+			},
+			{
+				"id": "http://juha.micro.blog/2023/06/11/curious-if-the.html",
+				
+				"content_html": "<p>Curious if the <a href=\"https://bgr.com/tech/ive-been-waiting-my-whole-life-for-ios-17s-new-journal-app/\">Apple&rsquo;s upcoming Journal app</a> will turn our to be something that would make me keep a personal journal. Micro.blog is great for public journaling, but I&rsquo;ve never really used an app for private journaling. Tbh, it&rsquo;s been ages since I&rsquo;ve had any kind of private journal. 😄</p>\n",
+				"content_text": "Curious if the [Apple's upcoming Journal app](https://bgr.com/tech/ive-been-waiting-my-whole-life-for-ios-17s-new-journal-app/) will turn our to be something that would make me keep a personal journal. Micro.blog is great for public journaling, but I've never really used an app for private journaling. Tbh, it's been ages since I've had any kind of private journal. 😄\n",
+				"date_published": "2023-06-11T19:36:12+03:00",
+				"url": "https://juhaliikala.com/2023/06/11/curious-if-the.html"
+			},
+			{
+				"id": "http://juha.micro.blog/2023/06/09/threads-by-instagram.html",
+				
+				"content_html": "<p>Threads, by Instagram - Could that be the name of the <a href=\"https://www.theverge.com/2023/6/8/23754304/instagram-meta-twitter-competitor-threads-activitypub\">Meta&rsquo;s answer to Twitter</a>? It might. I&rsquo;m actually more than mildly excited about this. Especially if it really does have ActivityPub support built in. Instagram userbase suddenly available in Fediverse would be like a.. big bang..or something? 🫨</p>\n",
+				"content_text": "Threads, by Instagram - Could that be the name of the [Meta's answer to Twitter](https://www.theverge.com/2023/6/8/23754304/instagram-meta-twitter-competitor-threads-activitypub)? It might. I'm actually more than mildly excited about this. Especially if it really does have ActivityPub support built in. Instagram userbase suddenly available in Fediverse would be like a.. big bang..or something? 🫨\n",
+				"date_published": "2023-06-09T10:46:55+03:00",
+				"url": "https://juhaliikala.com/2023/06/09/threads-by-instagram.html",
+				"tags": ["Social media"]
+			},
+			{
 				"id": "http://juha.micro.blog/2023/06/07/papas-got-a.html",
 				"title": "Papa's got a brand new blog",
 				"content_html": "<p>Well, I did it again. Started a new blog, that is.</p>\n<p>Oh wait, that&rsquo;s not entirely true. It ain&rsquo;t new, as I&rsquo;ve used it on and off for micro blogging. But I haven&rsquo;t used it for longer posts like this one. Oh, and it has fresh coat of paint too!</p>\n<p>The site runs on <em>micro.blog</em>, a blogging platform that also has elements of social networking built in. In addition to the micro.blog community itself, it also connects with <a href=\"https://en.wikipedia.org/wiki/Fediverse\">Fediverse</a>. And you can easily cross-publish to other social networks, including LinkedIn, Twitter, Medium and more.</p>\n<p>It&rsquo;s neat, <a href=\"https://micro.blog\">do check it out</a>.</p>\n<p>Now that I&rsquo;ve moved around some &ldquo;furniture&rdquo;, this place feels more like home. There are few things I&rsquo;d like to mention about the &ldquo;making of&rdquo; this site.</p>\n<!-- raw HTML omitted -->\n<p>First, I&rsquo;d like to send out big thanks to <a href=\"https://micro.blog/Mtt\">@Mtt</a>, who created a micro.blog theme called <a href=\"https://github.com/MattSLangford/Tiny-Theme-for-Micro.blog\">Tiny Theme</a>. This site is using a (yours truly) modified version of Tiny that turned out rather lovely I think. :)</p>\n<p>Second, I&rsquo;d like to thank <a href=\"https://micro.blog/manton\">@manton</a> and the whole team micro.blog for creating such an unique blogging platform. There really ain&rsquo;t another one like it.</p>\n<p>Third, check out this site&rsquo;s <a href=\"/colophon\">colophon</a> for the rest of building blocks this site uses. I&rsquo;ll do my best to keep that page updated when things change here.</p>\n<p>Last, but not least - As micro.blog also provides <a href=\"https://micro.blog/pricing\">Newsletter feature</a>, I&rsquo;m trying that out as a delivery mechanism for sharing monthly updates from this blog. If it turns out to be sufficient for my use, great! If not, I&rsquo;m happy to keep using <a href=\"https://buttondown.email/\">Buttondown</a> (which I&rsquo;ve used in the past). Whatever works best et cetera.</p>\n<p>P.S. Oh, and if RSS feeds are more your thing, feel free to pick the one(s) that make most sense to you:</p>\n<ul>\n<li><a href=\"https://juhaliikala.com/feed.xml\">Full RSS feed (all posts and notes)</a></li>\n<li><a href=\"https://juhaliikala.com/categories/article/feed.xml\">Long-form posts (like this one)</a></li>\n<li><a href=\"https://juhaliikala.com/categories/monthly-wrap/feed.xml\">The monthly wrap</a></li>\n</ul>\n<p>P.P.S If you&rsquo;re on Fediverse (Mastodon, for example), you can also follow what happens here on blog by searching for this handle: <strong>@juha@juhaliikala.com</strong>. All the things you see here (as notes and posts), will end up on that account&rsquo;s feed.</p>\n<p>Ok, I think that&rsquo;s all for now. Thank you for reading and I hope to &ldquo;see you&rdquo; again next time here on blog. Cheers! 👋</p>",
@@ -71,11 +96,11 @@
 			{
 				"id": "http://juha.micro.blog/2023/03/21/singapore-pooltime-its.html",
 				
-				"content_html": "<p>Singapore pooltime! 😍🇸🇬 It&rsquo;s been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴</p>\n<p>#travel #singapore #indonesia #bali</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Singapore pooltime! 😍🇸🇬 It's been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴\n\n#travel #singapore #indonesia #bali\n\n<img src=\"uploads/2023/8ff9000587.jpg\" alt=\"Poolside chilling in Singapore\">\n<img src=\"uploads/2023/cd70aef71a.jpg\" alt=\"Supertree Grove in Singapore\">\n<img src=\"uploads/2023/538adcdcb7.jpg\" alt=\"Marina Bay Sands in late evening\">\n",
+				"content_html": "<p>Singapore pooltime! 😍🇸🇬 It&rsquo;s been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴</p>\n<p>#travel #singapore #indonesia #bali 🗺️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Singapore pooltime! 😍🇸🇬 It's been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴\n\n#travel #singapore #indonesia #bali 🗺️\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/8ff9000587.jpg\" alt=\"Poolside chilling in Singapore\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/cd70aef71a.jpg\" alt=\"Supertree Grove in Singapore\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/538adcdcb7.jpg\" alt=\"Marina Bay Sands in late evening\">\n",
 				"date_published": "2023-03-21T06:21:39+03:00",
 				"url": "https://juhaliikala.com/2023/03/21/singapore-pooltime-its.html",
-				"tags": ["Travel"]
+				"tags": ["Travel","Travel photos"]
 			},
 			{
 				"id": "http://juha.micro.blog/2023/02/20/this-cracked-me.html",
@@ -104,11 +129,11 @@
 			{
 				"id": "http://juha.micro.blog/2023/01/12/posting-a-few.html",
 				
-				"content_html": "<p>Posting a few nice shots from Lofoten (Norway) road trip (few years ago) to check if micro.blog CDN settings have taken effect 😄🤞</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Posting a few nice shots from Lofoten (Norway) road trip (few years ago) to check if micro.blog CDN settings have taken effect 😄🤞\n<div class=\"photo-grid\">\n<a href=\"https://cdn.uploads.micro.blog/65934/2023/27d637adec.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/27d637adec.jpg\" alt=\"Road to the mountains, somewhere near the Lofoten islands, Norway\"></a>\n<a href=\"https://cdn.uploads.micro.blog/65934/2023/093ed9f31e.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/093ed9f31e.jpg\" alt=\"Fishing village, somewhere near the Lofoten islands, Norway\"></a>\n<a href=\"https://cdn.uploads.micro.blog/65934/2023/9f8ede5b1f.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/9f8ede5b1f.jpg\" alt=\"Lake and a Fishing village, somewhere near the Lofoten islands, Norway\"></a>\n</div>\n",
+				"content_html": "<p>Posting a few nice shots from Lofoten (Norway) road trip (few years ago) to check if micro.blog CDN settings have taken effect 😄🤞🗺️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Posting a few nice shots from Lofoten (Norway) road trip (few years ago) to check if micro.blog CDN settings have taken effect 😄🤞🗺️\n\n<img src=\"uploads/2023/27d637adec.jpg\" alt=\"Road to the mountains, somewhere near the Lofoten islands, Norway\">\n<img src=\"uploads/2023/093ed9f31e.jpg\" alt=\"Fishing village, somewhere near the Lofoten islands, Norway\">\n<img src=\"uploads/2023/9f8ede5b1f.jpg\" alt=\"Lake and a Fishing village, somewhere near the Lofoten islands, Norway\">\n",
 				"date_published": "2023-01-12T16:42:38+03:00",
 				"url": "https://juhaliikala.com/2023/01/12/posting-a-few.html",
-				"tags": ["Travel"]
+				"tags": ["Travel","Travel photos"]
 			},
 			{
 				"id": "http://juha.micro.blog/2023/01/10/aiempaan-viestiin-liittyen.html",
@@ -131,11 +156,11 @@
 			{
 				"id": "http://juha.micro.blog/2023/01/06/winter-roadtrip-to.html",
 				
-				"content_html": "<p>Winter roadtrip to Iso-Syöte (Finland) 😍</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Winter roadtrip to Iso-Syöte (Finland) 😍\n\n\n<div class=\"photo-grid\">\n<a href=\"https://juhaliikala.com/uploads/2023/9f8ede5b1f.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/5dd50fad53.jpg\" alt=\"Shooting a beautiful Iso-Syöte sunset\" loading=\"lazy\"></a>\n<a href=\"https://juhaliikala.com/uploads/2023/9f8ede5b1f.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/56ae16f1ce.jpg\" alt=\"Iso-Syöte sunset sht between a hole in snow\" loading=\"lazy\"></a>\n<a href=\"https://juhaliikala.com/uploads/2023/9f8ede5b1f.jpg\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/f629affedf.jpg\" alt=\"Third Iso-Syöte sunset shot, overlooking the valley\" loading=\"lazy\"></a>\n</div>\n",
+				"content_html": "<p>Winter roadtrip to Iso-Syöte (Finland) 😍🗺️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Winter roadtrip to Iso-Syöte (Finland) 😍🗺️\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/5dd50fad53.jpg\" alt=\"Shooting a beautiful Iso-Syöte sunset\" loading=\"lazy\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/56ae16f1ce.jpg\" alt=\"Iso-Syöte sunset sht between a hole in snow\" loading=\"lazy\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/f629affedf.jpg\" alt=\"Third Iso-Syöte sunset shot, overlooking the valley\" loading=\"lazy\">\n",
 				"date_published": "2023-01-06T16:00:57+03:00",
 				"url": "https://juhaliikala.com/2023/01/06/winter-roadtrip-to.html",
-				"tags": ["Travel"]
+				"tags": ["Travel","Travel photos"]
 			},
 			{
 				"id": "http://juha.micro.blog/2022/12/17/for-many-years.html",
@@ -185,11 +210,11 @@
 			{
 				"id": "http://juha.micro.blog/2022/11/07/224107.html",
 				
-				"content_html": "<p>Monochrome Monday shot from Times Square, New York. Would love to revisit! 📸🙌</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monochrome Monday shot from Times Square, New York. Would love to revisit! 📸🙌\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/9dcc1dcd83.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Monochrome Monday shot from Times Square, New York. Would love to revisit! 📸🙌🗺️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Monochrome Monday shot from Times Square, New York. Would love to revisit! 📸🙌🗺️\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/9dcc1dcd83.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-07T22:41:07+03:00",
 				"url": "https://juhaliikala.com/2022/11/07/224107.html",
-				"tags": ["Travel"]
+				"tags": ["Travel","Travel photos"]
 			},
 			{
 				"id": "http://juha.micro.blog/2022/11/06/ah-first-snow.html",
@@ -254,11 +279,11 @@
 			{
 				"id": "http://juha.micro.blog/2022/08/21/blast-from-the.html",
 				
-				"content_html": "<p>Blast from the past from travel photo archives. Miss those Bali adventures! This was a cave waterfall called Tukad Cepung (if I remember correctly). Beautiful place! 😍</p>\n<p>✈️🗺</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Blast from the past from travel photo archives. Miss those Bali adventures! This was a cave waterfall called Tukad Cepung (if I remember correctly). Beautiful place! 😍\n\n✈️🗺\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/34c904fd66.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Blast from the past from travel photo archives. Miss those Bali adventures! This was a cave waterfall called Tukad Cepung (if I remember correctly). Beautiful place! 😍</p>\n<p>🗺️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Blast from the past from travel photo archives. Miss those Bali adventures! This was a cave waterfall called Tukad Cepung (if I remember correctly). Beautiful place! 😍\n\n🗺️\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/34c904fd66.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-21T13:50:21+03:00",
 				"url": "https://juhaliikala.com/2022/08/21/blast-from-the.html",
-				"tags": ["Travel"]
+				"tags": ["Travel","Travel photos"]
 			},
 			{
 				"id": "http://juha.micro.blog/2022/08/19/and-there-goes.html",
