@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://juha.micro.blog/2023/07/17/thank-you-for.html",
+				
+				"content_html": "<p>Thank you for the shiny stickers <a href=\"https://micro.blog/manton\">@manton</a>! They arrived to mailbox while we were on our summer holiday trip. Just opened the envelope yesterday. 😊</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Thank you for the shiny stickers [@manton](https://micro.blog/manton)! They arrived to mailbox while we were on our summer holiday trip. Just opened the envelope yesterday. 😊\n\n<img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-17T17:33:50+03:00",
+				"url": "https://juhaliikala.com/2023/07/17/thank-you-for.html"
+			},
+			{
 				"id": "http://juha.micro.blog/2023/07/06/threads-by-instagram.html",
 				
 				"content_html": "<p>Threads by Instagram is not available in Europe (at least for now)? At least I don&rsquo;t see it in Finnish appstore. For someone who can try it, is it ActivityPub compatible? Can I use it with micro.blog somehow (follow people, respond to threads, etc.? 🤔</p>\n",
