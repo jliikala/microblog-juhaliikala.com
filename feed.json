@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://juha.micro.blog/2023/08/27/i-miss-those.html",
+				
+				"content_html": "<p>I miss those early days when most people I know from blogging, web projects, online biz and related endeavours were on Twitter. Both in Finland and globally. It was so easy to connect and stay connected with everyone.</p>\n<p>Fast forward to today, and we are all scattered across various social networks online. Mastodon, Instagram, LinkedIn, Threads, Tumblr, Bluesky, micro.blog.. and yes, X.</p>\n<p>Ugh. Too many places to keep track of, let alone stay active on. ActivityPub certainly is a step in the right direction in this context, but will it ever get adopted widely enough to &ldquo;solve&rdquo; this problem?</p>\n<p>I guess only time will tell.  🤷🏻</p>\n",
+				"content_text": "I miss those early days when most people I know from blogging, web projects, online biz and related endeavours were on Twitter. Both in Finland and globally. It was so easy to connect and stay connected with everyone.\r\n\r\nFast forward to today, and we are all scattered across various social networks online. Mastodon, Instagram, LinkedIn, Threads, Tumblr, Bluesky, micro.blog.. and yes, X.\r\n\r\nUgh. Too many places to keep track of, let alone stay active on. ActivityPub certainly is a step in the right direction in this context, but will it ever get adopted widely enough to \"solve\" this problem?\r\n\r\nI guess only time will tell.  🤷🏻\n",
+				"date_published": "2023-08-27T15:42:14+03:00",
+				"url": "https://juhaliikala.com/2023/08/27/i-miss-those.html",
+				"tags": ["Social media","Blogging"]
+			},
+			{
+				"id": "http://juha.micro.blog/2023/08/24/soooo-threads-just.html",
+				
+				"content_html": "<p>Soooo.. <a href=\"https://threads.net/\">Threads</a> just launched their web version, cool. Unless you&rsquo;re in EU region, which I am. Can&rsquo;t use the app, can&rsquo;t use the web. Twitter is a mess, left ages ago. STILL no Bluesky invite either (although I joined waiting list last year). Truly feeling like a second class citizen here! 🥲</p>\n<p>Well, at least micro.blog works (and Mastodon!) 🤪</p>\n",
+				"content_text": "Soooo.. [Threads](https://threads.net/) just launched their web version, cool. Unless you're in EU region, which I am. Can't use the app, can't use the web. Twitter is a mess, left ages ago. STILL no Bluesky invite either (although I joined waiting list last year). Truly feeling like a second class citizen here! 🥲\n\nWell, at least micro.blog works (and Mastodon!) 🤪\n",
+				"date_published": "2023-08-24T20:17:52+03:00",
+				"url": "https://juhaliikala.com/2023/08/24/soooo-threads-just.html",
+				"tags": ["Social media"]
+			},
+			{
 				"id": "http://juha.micro.blog/2023/08/21/fighting-the-urge.html",
 				"title": "Fighting the urge for website do-overs, Threads in EU update and getting acquainted with MarsEdit",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->",
