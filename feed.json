@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://juha.micro.blog/2024/02/16/aaand-back-to.html",
+				
+				"content_html": "<p>Aaand back to the &ldquo;real human&rdquo; type of profile picture again, after rockin the cartoon avatar for a while. In this age of AI generated pictures, having a &ldquo;real human face&rdquo; as the profile image feels nicer I guess 😄</p>\n",
+				"content_text": "Aaand back to the \"real human\" type of profile picture again, after rockin the cartoon avatar for a while. In this age of AI generated pictures, having a \"real human face\" as the profile image feels nicer I guess 😄\n",
+				"date_published": "2024-02-16T14:26:34+02:00",
+				"url": "https://www.juhaliikala.com/2024/02/16/aaand-back-to.html"
+			},
+			{
 				"id": "http://juha.micro.blog/2024/01/21/new-profile-image.html",
 				
 				"content_html": "<p>New profile image, yo! 😄</p>\n<p>Thanks <a href=\"https://micro.blog/maique\">@maique</a> for pointing me in the right direction for finding <a href=\"https://ko-fi.com/andycarolan\">Andy&rsquo;s work</a>! 🙏</p>\n",
@@ -66,7 +74,7 @@
 				"content_text": "Right before heading to summer holidays in June, [I launched a new version of this website](https://juhaliikala.com/2023/06/07/papas-got-a.html).\n\nDuring the holiday, I didn't do much else than enjoy the vacation views & feels and post some stories and photos [on Instagram](https://www.instagram.com/nomadcouch/) from the trip. Didn't even bring my laptop with me, holiday well spent!\n\nHaving said that, I feel excited to get back to tinkering with this blog again. Unlike social media channels where you have limited options on \"making it yours\", on personal websites, the sky is the limit. It's fun being able to make this thing whatever I want it to be.\n\nOh, where did we travel?\n\nIn addition to travels in Finland (where I'm from), we went to Northern Italy, near a city called Bolzano and from there, continued to Santorini, Greece. First mountain views with nice 20-25 Celsius weather, then full on sunshine, 30 Celsius and those beautiful Santorini views. It was great and I miss those places already!\n\nOk, but about that blog / website tinkering topic. Here's what's been happening.\n\n<figure>\n<img src=\"uploads/2023/7ccc88519c.jpg\" alt=\"Six photos collage from trip to Italy and Greece.\" width=\"640\" height=\"640\">\n  <figcaption>Northern Italy and Santorini, I miss you already!</figcaption>\n</figure>\n<!--more-->\n\n## More layout changes\n\nI started building this website on a fork of [Tiny Theme](https://github.com/MattSLangford/Tiny-Theme-for-Micro.blog) in June. After that, this has *evolved* on a theme of it's own. I'll probably make a new repository out of this at some point and write it again from scratch at some point. But for now, the code itself is living on the fork branch.\n\nWhen viewing the site on larger screens, it now has a left sidebar and the main content area on right. On mobile, it's the same one column view it used to be.\n\nThere are also some subtle new things like the subscribe to email updates and RSS feed buttons on homesite. I also added a *verified checkmark* icon next to my name on site title. If you'd like to add it to your personal blog, [Andy Bell got you covered](https://andy-bell.co.uk/why-pay-8-for-a-check-mark-when-you-can-get-one-for-for-free/).\n\n## Subscribing to blog updates, revisited\n\nI struggled quite a bit on the question of \"how does one want to follow updates from a blog\". Especially when the blog has both micro posts (which get published often) and long form content (like this article).\n\nI first thought of a monthly newsletter option, then a weekly version of it. But it felt strange for me to be sending a collection of all the posts from a given time frame. I wouldn't want to subscribe via email to anyone's Twitter/Threads/Mastodon feed either, so why would this feel any different?\n\nFor more regular updates, RSS feels like a better option. Or following the blog on Fediverse (seeing all the post updates from a social media channel of user's choice, Mastodon for example).\n\nWhat I ended up with are these three options:\n\n- Sending long form articles (and only those) via email as soon as they get published. You can [subscribe here](https://juhaliikala.com/subscribe/).\n- Full feed (with long and short posts) are available via [RSS](https://juhaliikala.com/feed.xml).\n- Following on Fediverse by searching [@juha@juhaliikala.com](https://micro.blog/juha@juhaliikala.com) (copy-paste that to Mastodon search and you follow this blog via that channel)\n\nI also thought about sending real time blog notification via Slack / Telegram, etc. but didn't yet implement any of that. Let's see if I will.\n\n## More blogging\n\nBack in 2010, I used write one or two article per week and publish them. Fast forward to this day and I really struggle to write and publish once a month (if even that!). Why is that?\n\nThere are many things I could point my finger at and cast blame: Too busy at work and life, too many distractions (mostly all the social media channels, news etc.), too much this and that. But yeah, it is what it is. Life is much more hectic than it used to be back then.\n\nTo that end, I'd still like to at least try my best to publish here on a biweekly basis, if possible. If not, oh well.. it gets out when it gets out, I guess. My website, my rules and all that 🤪.\n\n## The story continues..\n\nSpeaking of hectic life, I'm already late from my daily(ish) workout session, so need to run now.\n\nBut hopefully will *see you soon* again here on blog. Until the next time! 👋\n",
 				"date_published": "2023-07-29T13:56:50+02:00",
 				"url": "https://www.juhaliikala.com/2023/07/29/back-from-the.html",
-				"tags": ["Travel","Social media","Blogging","Article"]
+				"tags": ["Traveled","Social media","Blogging","Article"]
 			},
 			{
 				"id": "http://juha.micro.blog/2023/07/25/so-elon-wants.html",
@@ -195,7 +203,7 @@
 				"content_text": "Singapore pooltime! 😍🇸🇬 It's been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴\n\n#travel #singapore #indonesia #bali 🗺️\n\n<img src=\"uploads/2023/8ff9000587.jpg\" alt=\"Poolside chilling in Singapore\">\n<img src=\"uploads/2023/cd70aef71a.jpg\" alt=\"Supertree Grove in Singapore\">\n<img src=\"uploads/2023/538adcdcb7.jpg\" alt=\"Marina Bay Sands in late evening\">\n",
 				"date_published": "2023-03-21T05:21:39+02:00",
 				"url": "https://www.juhaliikala.com/2023/03/21/singapore-pooltime-its.html",
-				"tags": ["Travel","Travel photos"]
+				"tags": ["Traveled","Travel photos"]
 			},
 			{
 				"id": "http://juha.micro.blog/2023/01/19/not-sure-if.html",
@@ -220,7 +228,7 @@
 				"content_text": "Posting a few nice shots from Lofoten (Norway) road trip (few years ago) to check if micro.blog CDN settings have taken effect 😄🤞🗺️\n\n<img src=\"uploads/2023/27d637adec.jpg\" alt=\"Road to the mountains, somewhere near the Lofoten islands, Norway\">\n<img src=\"uploads/2023/093ed9f31e.jpg\" alt=\"Fishing village, somewhere near the Lofoten islands, Norway\">\n<img src=\"uploads/2023/9f8ede5b1f.jpg\" alt=\"Lake and a Fishing village, somewhere near the Lofoten islands, Norway\">\n",
 				"date_published": "2023-01-12T15:42:38+02:00",
 				"url": "https://www.juhaliikala.com/2023/01/12/posting-a-few.html",
-				"tags": ["Travel","Travel photos"]
+				"tags": ["Traveled","Travel photos"]
 			},
 			{
 				"id": "http://juha.micro.blog/2023/01/10/aiempaan-viestiin-liittyen.html",
@@ -247,7 +255,7 @@
 				"content_text": "Winter roadtrip to Iso-Syöte (Finland) 😍🗺️\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/5dd50fad53.jpg\" alt=\"Shooting a beautiful Iso-Syöte sunset\" loading=\"lazy\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/56ae16f1ce.jpg\" alt=\"Iso-Syöte sunset sht between a hole in snow\" loading=\"lazy\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/f629affedf.jpg\" alt=\"Third Iso-Syöte sunset shot, overlooking the valley\" loading=\"lazy\">\n",
 				"date_published": "2023-01-06T15:00:57+02:00",
 				"url": "https://www.juhaliikala.com/2023/01/06/winter-roadtrip-to.html",
-				"tags": ["Travel","Travel photos"]
+				"tags": ["Traveled","Travel photos"]
 			},
 			{
 				"id": "http://juha.micro.blog/2022/12/17/for-many-years.html",
@@ -301,7 +309,7 @@
 				"content_text": "Monochrome Monday shot from Times Square, New York. Would love to revisit! 📸🙌🗺️\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/9dcc1dcd83.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-07T21:41:07+02:00",
 				"url": "https://www.juhaliikala.com/2022/11/07/224107.html",
-				"tags": ["Travel","Travel photos"]
+				"tags": ["Traveled","Travel photos"]
 			},
 			{
 				"id": "http://juha.micro.blog/2022/11/06/ah-first-snow.html",
@@ -370,7 +378,7 @@
 				"content_text": "Blast from the past from travel photo archives. Miss those Bali adventures! This was a cave waterfall called Tukad Cepung (if I remember correctly). Beautiful place! 😍\n\n🗺️\n<img src=\"https://cdn.uploads.micro.blog/65934/2022/34c904fd66.jpg\" alt=\"Man standing in a cave where waterfall runs down the wall and there's an opening on the cave to see the sky\"/>\n",
 				"date_published": "2022-08-21T12:50:21+02:00",
 				"url": "https://www.juhaliikala.com/2022/08/21/blast-from-the.html",
-				"tags": ["Travel","Travel photos"]
+				"tags": ["Traveled","Travel photos"]
 			},
 			{
 				"id": "http://juha.micro.blog/2022/08/19/and-there-goes.html",
