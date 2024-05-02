@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://juha.micro.blog/2024/04/30/so-as-we.html",
+				
+				"content_html": "<p>So, as we now have three main ways for subscribing to a blog/publication; email newsletter, RSS and ActivityPub (handle), which will win? Some blogs even add a fourth way: Subscribing via WhatsApp / Telegram / Etc. Will RSS and ActivityPub subscribing continue being marginal use case and email still rules? I have no idea, but I think about this a lot.</p>\n<p>I feel ActivityPub (especially in it&rsquo;s current form) has a bit similar problem that RSS does, non-techical users just don&rsquo;t use them for subscribing. It&rsquo;s been all about newsletters for so long, that not sure if that mental model will change easily.</p>\n<p>As a blogger, do you intend to support several different ways of subscribing (to your blog)? Or, do you plan to just promote one primary way of subscribing and maybe offer the other ways of subscribing in &ldquo;the fine details&rdquo;?</p>\n",
+				"content_text": "So, as we now have three main ways for subscribing to a blog/publication; email newsletter, RSS and ActivityPub (handle), which will win? Some blogs even add a fourth way: Subscribing via WhatsApp / Telegram / Etc. Will RSS and ActivityPub subscribing continue being marginal use case and email still rules? I have no idea, but I think about this a lot.\n\nI feel ActivityPub (especially in it's current form) has a bit similar problem that RSS does, non-techical users just don't use them for subscribing. It's been all about newsletters for so long, that not sure if that mental model will change easily.\n\nAs a blogger, do you intend to support several different ways of subscribing (to your blog)? Or, do you plan to just promote one primary way of subscribing and maybe offer the other ways of subscribing in \"the fine details\"?\n",
+				"date_published": "2024-04-30T13:50:29+03:00",
+				"url": "https://micro.juhaliikala.com/2024/04/30/so-as-we.html",
+				"tags": ["Blogging"]
+			},
+			{
 				"id": "http://juha.micro.blog/2024/04/25/from-season.html",
 				"title": "From - Season 2, 2023 - ★★★★",
 				"content_html": "<p>Just finished second season of <a href=\"https://www.imdb.com/title/tt9813792/reference/\">From</a>. What an excellent show. Highly recommend, if you enjoy mystery / horror type of (watching) things! Kind of reminded me of <a href=\"https://www.imdb.com/title/tt11525188/reference/\">Chapelwaite</a>, but I think I enjoy this show even more. Season 3 coming this summer, I hope!</p>\n<!-- raw HTML omitted -->\n",
