@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://juha.micro.blog/2024/10/10/blogger-for-years.html",
+				"title": "Blogger for 30 years",
+				"content_html": "<p>I&rsquo;m a bit late to the party (here on this blog), but I just want to take a moment to congratulate <a href=\"https://micro.blog/dave\">@dave</a> for the incredible milestone of <a href=\"http://scripting.com/2024/10/07.html\">blogging non-stop for the past 30 years</a>! There are very few (if any!) bloggers who have been doing this for as long as that. Even the <a href=\"https://web.archive.org/web/20010701000000*/http://scripting.com/\">Wayback Machine</a> doesn&rsquo;t have records of those first years (as it was started in 1996 and Dave&rsquo;s blog has been around from &lsquo;94!) <a href=\"http://kottke.org\">@kottke.org</a> and <a href=\"http://zeldman.com\">@zeldman.com</a> might come close!</p>\n<p>So, congratulations are certainly in order! Hat tip to you, sir! 🥳</p>\n",
+				"content_text": "I'm a bit late to the party (here on this blog), but I just want to take a moment to congratulate [@dave](https://micro.blog/dave) for the incredible milestone of [blogging non-stop for the past 30 years](http://scripting.com/2024/10/07.html)! There are very few (if any!) bloggers who have been doing this for as long as that. Even the [Wayback Machine](https://web.archive.org/web/20010701000000*/http://scripting.com/) doesn't have records of those first years (as it was started in 1996 and Dave's blog has been around from '94!) [@kottke.org](http://kottke.org) and [@zeldman.com](http://zeldman.com) might come close!\r\n\r\nSo, congratulations are certainly in order! Hat tip to you, sir! 🥳\n",
+				"date_published": "2024-10-10T10:03:00+03:00",
+				"url": "https://micro.juhaliikala.com/2024/10/10/blogger-for-years.html",
+				"tags": ["Blogging"]
+			},
+			{
 				"id": "http://juha.micro.blog/2024/10/04/switched-my-new.html",
 				
 				"content_html": "<p>Switched my new finnish blog from Eleventy (&amp; Netlify) to micro.blog just now. Surprisingly painless switch! Synergy ftw! 😁</p>\n",
@@ -17,8 +26,8 @@
 			{
 				"id": "http://juha.micro.blog/2024/09/28/aaand-the-finnish.html",
 				
-				"content_html": "<p>Aaand the finnish version is live now too! - <a href=\"https://juhaliikala.fi/kahden-blogin-kokeilu/\">juhaliikala.fi/kahden-bl&hellip;</a> 😁</p>\n",
-				"content_text": "Aaand the finnish version is live now too! - [juhaliikala.fi/kahden-bl...](https://juhaliikala.fi/kahden-blogin-kokeilu/) 😁\n",
+				"content_html": "<p>Aaand the finnish version is live now too! - <a href=\"https://juhaliikala.fi/2024/10/04/kahden-blogin-kokeilu.html\">juhaliikala.fi/kahden-bl&hellip;</a> 😁</p>\n",
+				"content_text": "Aaand the finnish version is live now too! - [juhaliikala.fi/kahden-bl...](https://juhaliikala.fi/2024/10/04/kahden-blogin-kokeilu.html) 😁\n",
 				"date_published": "2024-09-28T21:50:38+03:00",
 				"url": "https://micro.juhaliikala.com/2024/09/28/aaand-the-finnish.html"
 			},
