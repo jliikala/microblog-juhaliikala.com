@@ -7,12 +7,20 @@
 	"items": [
 		
 			{
-				"id": "http://juha.micro.blog/2025/01/03/here-we-go-again-to.html",
+				"id": "http://juha.micro.blog/2025/01/07/microblog-might-just-be-the.html",
 				
-				"content_html": "<p>Here we go again!</p>\n<p>To keep my tradition of starting a new blog every January alive, 2025 is no exception. This time, I even came up with a fancy title for it: Blogs, Bots &amp; Surviving the AI Apocalypse. 😄🤖</p>\n<p>I hope you’ll check it out! 👋</p>\n<p><a href=\"https://juhaliikala.blog/2025/01/03/ai-enters-the-room/\">JuhaLiikala.blog - AI Enters The Room</a></p>\n",
-				"content_text": "Here we go again!\r\n\r\nTo keep my tradition of starting a new blog every January alive, 2025 is no exception. This time, I even came up with a fancy title for it: Blogs, Bots & Surviving the AI Apocalypse. 😄🤖\r\n\r\nI hope you’ll check it out! 👋\r\n\r\n[JuhaLiikala.blog - AI Enters The Room](https://juhaliikala.blog/2025/01/03/ai-enters-the-room/)\n",
-				"date_published": "2025-01-03T19:32:48+02:00",
-				"url": "https://www.juhaliikala.com/2025/01/03/here-we-go-again-to.html"
+				"content_html": "<p>Micro.blog might just be the last benevolent social network out there, when all the dust has settled. I mean, there&rsquo;s Bluesky and Mastodon for sure, but.. dunno. Feeling pessimistic about the future of social media in general atm. There&rsquo;s shitshows and dumbster fires everywhere you look 😓</p>\n",
+				"content_text": "Micro.blog might just be the last benevolent social network out there, when all the dust has settled. I mean, there's Bluesky and Mastodon for sure, but.. dunno. Feeling pessimistic about the future of social media in general atm. There's shitshows and dumbster fires everywhere you look 😓\n",
+				"date_published": "2025-01-07T20:55:09+02:00",
+				"url": "https://www.juhaliikala.com/2025/01/07/microblog-might-just-be-the.html"
+			},
+			{
+				"id": "http://juha.micro.blog/2025/01/06/i-wonder-how-mediumcoms-article.html",
+				
+				"content_html": "<p>I wonder how medium.com&rsquo;s article discovery works these days, because it feels like.. it doesn&rsquo;t? Wrote a piece and published it on Friday. Today, it has 3 views and 0 reads. And I&rsquo;m supposed to have 1.5k &ldquo;followers&rdquo; there. Is that the normal experience there these days? Seems bit.. brutal? 😅</p>\n",
+				"content_text": "I wonder how medium.com's article discovery works these days, because it feels like.. it doesn't? Wrote a piece and published it on Friday. Today, it has 3 views and 0 reads. And I'm supposed to have 1.5k \"followers\" there. Is that the normal experience there these days? Seems bit.. brutal? 😅\n",
+				"date_published": "2025-01-06T16:02:13+02:00",
+				"url": "https://www.juhaliikala.com/2025/01/06/i-wonder-how-mediumcoms-article.html"
 			},
 			{
 				"id": "http://juha.micro.blog/2024/12/12/oh-this-is.html",
