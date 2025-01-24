@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://juha.micro.blog/2025/01/21/part-of-me-thinks-now.html",
+				
+				"content_html": "<p>Part of me thinks, now would be a good time to drop off the social media for an extended period of time (4 years, perhaps?). Then again, that might not be wise either. After all, when you know what&rsquo;s happening around the world, you can at least try to prepare for the ill effects. Thoughts? 🤪</p>\n",
+				"content_text": "Part of me thinks, now would be a good time to drop off the social media for an extended period of time (4 years, perhaps?). Then again, that might not be wise either. After all, when you know what's happening around the world, you can at least try to prepare for the ill effects. Thoughts? 🤪\n",
+				"date_published": "2025-01-21T13:47:38+02:00",
+				"url": "https://www.juhaliikala.com/2025/01/21/part-of-me-thinks-now.html"
+			},
+			{
+				"id": "http://juha.micro.blog/2025/01/19/i-wonder-if-years-from.html",
+				
+				"content_html": "<p>I wonder if, 10 years from now, we’ll still be playing the “my platform just got rug pulled—where do I go now?” game. Or have we finally realized that the only way to opt out for good is to make our personal websites and blogs the place to be again? #startyourblog</p>\n",
+				"content_text": "I wonder if, 10 years from now, we’ll still be playing the “my platform just got rug pulled—where do I go now?” game. Or have we finally realized that the only way to opt out for good is to make our personal websites and blogs the place to be again? #startyourblog\n",
+				"date_published": "2025-01-19T11:56:01+02:00",
+				"url": "https://www.juhaliikala.com/2025/01/19/i-wonder-if-years-from.html"
+			},
+			{
 				"id": "http://juha.micro.blog/2025/01/07/microblog-might-just-be-the.html",
 				
 				"content_html": "<p>Micro.blog might just be the last benevolent social network out there, when all the dust has settled. I mean, there&rsquo;s Bluesky and Mastodon for sure, but.. dunno. Feeling pessimistic about the future of social media in general atm. There&rsquo;s shitshows and dumbster fires everywhere you look 😓</p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://juha.micro.blog/2024/11/11/what-a-stunning.html",
 				
 				"content_html": "<p>What a stunning Aurora Borealis week it was last week. One can never get tired of these views! 😍</p>\n<p>#auroraborealis #finland</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "What a stunning Aurora Borealis week it was last week. One can never get tired of these views! 😍\n\n#auroraborealis #finland\n\n<img src=\"uploads/2024/62d3ec37b9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/6d8b851f39.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/ce45e67186.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "What a stunning Aurora Borealis week it was last week. One can never get tired of these views! 😍\n\n#auroraborealis #finland\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2024/62d3ec37b9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/65934/2024/6d8b851f39.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/65934/2024/ce45e67186.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-11T17:13:48+02:00",
 				"url": "https://www.juhaliikala.com/2024/11/11/what-a-stunning.html",
 				"tags": ["Photos"]
@@ -306,7 +322,7 @@
 				"id": "http://juha.micro.blog/2023/03/21/singapore-pooltime-its.html",
 				
 				"content_html": "<p>Singapore pooltime! 😍🇸🇬 It&rsquo;s been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴</p>\n<p>#travel #singapore #indonesia #bali 🗺️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Singapore pooltime! 😍🇸🇬 It's been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴\n\n#travel #singapore #indonesia #bali 🗺️\n\n<img src=\"uploads/2023/8ff9000587.jpg\" alt=\"Poolside chilling in Singapore\">\n<img src=\"uploads/2023/cd70aef71a.jpg\" alt=\"Supertree Grove in Singapore\">\n<img src=\"uploads/2023/538adcdcb7.jpg\" alt=\"Marina Bay Sands in late evening\">\n",
+				"content_text": "Singapore pooltime! 😍🇸🇬 It's been 4 years since our last visit. Awesome to be back! 😊 Next up, Bali 🌴\n\n#travel #singapore #indonesia #bali 🗺️\n\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/8ff9000587.jpg\" alt=\"Poolside chilling in Singapore\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/cd70aef71a.jpg\" alt=\"Supertree Grove in Singapore\">\n<img src=\"https://cdn.uploads.micro.blog/65934/2023/538adcdcb7.jpg\" alt=\"Marina Bay Sands in late evening\">\n",
 				"date_published": "2023-03-21T05:21:39+02:00",
 				"url": "https://www.juhaliikala.com/2023/03/21/singapore-pooltime-its.html",
 				"tags": ["Traveled","Travel photos","Photos"]
