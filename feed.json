@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://juha.micro.blog/2025/07/11/any-bloggers-from-the-nordics/",
+				
+				"content_html": "<p>Any bloggers from the Nordics here (especially, if you blog on your native language)? Would love to check out how others deal with personal blogs (and social media), when they&rsquo;re not in English. 😁</p>\n",
+				"content_text": "Any bloggers from the Nordics here (especially, if you blog on your native language)? Would love to check out how others deal with personal blogs (and social media), when they're not in English. 😁\n",
+				"date_published": "2025-07-11T11:05:49+03:00",
+				"url": "https://www.juhaliikala.com/2025/07/11/any-bloggers-from-the-nordics/",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://juha.micro.blog/2025/07/08/oh-wait-speaking-about-old/",
+				
+				"content_html": "<p>Oh, wait! Speaking about old domains.. this very domain actually turned 20 this year! How have I missed that.. Pop the champagne! 😃🍾</p>\n",
+				"content_text": "Oh, wait! Speaking about old domains.. this very domain actually turned 20 this year! How have I missed that.. Pop the champagne! 😃🍾\n",
+				"date_published": "2025-07-08T19:55:58+03:00",
+				"url": "https://www.juhaliikala.com/2025/07/08/oh-wait-speaking-about-old/",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://juha.micro.blog/2025/07/08/holy-moly-just-rediscovered-an/",
+				
+				"content_html": "<p>Holy moly! Just rediscovered an archive of nearly 100 draft posts I once planned to finish and publish on nomadcouch.com — a blog I ran until 2012. Brought back some golden memories! 😄 That&rsquo;s 13 years ago&hellip; where does the time go? Maybe it’s time to reimagine it and start fresh? 🫢</p>\n",
+				"content_text": "Holy moly! Just rediscovered an archive of nearly 100 draft posts I once planned to finish and publish on nomadcouch.com — a blog I ran until 2012. Brought back some golden memories! 😄 That's 13 years ago... where does the time go? Maybe it’s time to reimagine it and start fresh? 🫢\n",
+				"date_published": "2025-07-08T19:22:57+03:00",
+				"url": "https://www.juhaliikala.com/2025/07/08/holy-moly-just-rediscovered-an/",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://juha.micro.blog/2025/05/23/oh-cool-my-instagram-for/",
 				
 				"content_html": "<p>Oh cool, my Instagram &ldquo;For You&rdquo; feed just served me a promoted post with borderline porn. Full-nudity image carousel, nothing “artistic” about it. Reported it, naturally — but guess what? “Doesn’t violate community guidelines.” Of course not. Why would it? 🙃</p>\n<!-- raw HTML omitted -->\n",
@@ -226,7 +253,7 @@
 				"id": "http://juha.micro.blog/2024/04/20/rebel-moon-part-two-the/",
 				"title": "Rebel Moon – Part Two: The Scargiver, 2024 - ★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/839326-rebel-moon-part-two-the-scargiver-0-600-0-900-crop.jpg\"/></p> <p>Okay(ish), but felt bit too slow burn in the beginning. Action scenes were nice, but I'm afraid this flick will be forgotten relatively fast. Overall: meh.</p>\n",
+				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/65934/2025/839326-rebel-moon-part-two-the-scargiver-0-600-0-900-crop.jpg\"/></p> <p>Okay(ish), but felt bit too slow burn in the beginning. Action scenes were nice, but I'm afraid this flick will be forgotten relatively fast. Overall: meh.</p>\n",
 				"date_published": "2024-04-20T21:06:25+03:00",
 				"url": "https://www.juhaliikala.com/2024/04/20/rebel-moon-part-two-the/",
 				"tags": ["Longform"]
